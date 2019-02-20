@@ -1,0 +1,49 @@
+Description:
+===========
+I AM Z - Portfolio & Resume Template HTML Template is designed with a clean look and feel, stylish & modern trend that totally flexible to bring high aesthetic & conversion for a CV/Resume HTML Template & would be suitable not only for personal site but also for personal branding showcase/portfolio or any resume website showcase. It comes with various sections, customization options and features for multiple purposes. It is perfect to promote your work!
+
+If you have any questions, please feel free to contact me at iamz@abc.com.
+
+Main Features:
+==============
+   a) Fully Responsive
+   b) HTML5 & CSS3
+   c) Bootstrap 4
+   d) Free Google Fonts
+   e) FontAwesome icons & Iconfont
+   f) Sass File Included
+   g) Cross Browser compatibility
+   h) Working Contact form
+   i) Ipad and Iphone friendly
+   j) W3C Valid Code
+   k) Google fonts support
+   l) Well documented code
+
+How To Use This Template:
+========================
+Wordpress Admin:
+----------------
+1. Plugins : Install and activate free plugins
+    a)	Elementor
+	b)	Elementor Addon Elements
+	c)	Flexible Elementor Panel
+    d)  Header, Footer & Blocks for Elementor
+    e)  Page scroll to id
+
+2. Templates : Import Templates > Choose File > Import Now [***import file is a json file]
+
+3. Pages : 
+    a) Add New > Add Title > Create New Page with a name for your project
+    b) Edit With Elementor
+
+4. Elementor Editor : 
+    a) Click on File Symbol to "Add Template"
+    b) Go to "My Template"
+    c) Select the Uploaded JSON file and Insert it
+    d) Settings > Page Layout > Elementor Canvas
+    e) publish
+
+5. Settings(Wordpress Admin)
+    a) Select Reading
+    b) A static Page > Homepage > (Select Your New Created Page)
+    c) Save Changes
