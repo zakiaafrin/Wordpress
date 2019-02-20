@@ -6,44 +6,51 @@ If you have any questions, please feel free to contact me at iamz@abc.com.
 
 Main Features:
 ==============
-   a) Fully Responsive
-   b) HTML5 & CSS3
-   c) Bootstrap 4
-   d) Free Google Fonts
-   e) FontAwesome icons & Iconfont
-   f) Sass File Included
-   g) Cross Browser compatibility
-   h) Working Contact form
-   i) Ipad and Iphone friendly
-   j) W3C Valid Code
-   k) Google fonts support
-   l) Well documented code
+   1. Fully Responsive
+   2. HTML5 & CSS3
+   3. Bootstrap 4
+   4. Free Google Fonts
+   5. FontAwesome icons & Iconfont
+   6. Sass File Included
+   7. Cross Browser compatibility
+   8. Working Contact form
+   9. Ipad and Iphone friendly
+   10. W3C Valid Code
+   11. Google fonts support
+   12. Well documented code
 
 How To Use This Template:
 ========================
 Wordpress Admin:
 ----------------
 1. Plugins : Install and activate free plugins
-    a)	Elementor
-	b)	Elementor Addon Elements
-	c)	Flexible Elementor Panel
-    d)  Header, Footer & Blocks for Elementor
-    e)  Page scroll to id
+------------
 
-2. Templates : Import Templates > Choose File > Import Now [***import file is a json file]
+    1.Elementor
+	2.Elementor Addon Elements
+	3.Flexible Elementor Panel
+    4.Header, Footer & Blocks for Elementor
+    5.Page scroll to id
+
+2. Templates : 
+--------------
+    Import Templates > Choose File > Import Now [***import file is a json file]
 
 3. Pages : 
-    a) Add New > Add Title > Create New Page with a name for your project
-    b) Edit With Elementor
+----------
+    1.Add New > Add Title > Create New Page with a name for your project
+    2.Edit With Elementor
 
-4. Elementor Editor : 
-    a) Click on File Symbol to "Add Template"
-    b) Go to "My Template"
-    c) Select the Uploaded JSON file and Insert it
-    d) Settings > Page Layout > Elementor Canvas
-    e) publish
+4. Elementor Editor :
+--------------------- 
+    1.Click on File Symbol to "Add Template"
+    2.Go to "My Template"
+    3.Select the Uploaded JSON file and Insert it
+    4.Settings > Page Layout > Elementor Canvas
+    5.Publish
 
-5. Settings(Wordpress Admin)
-    a) Select Reading
-    b) A static Page > Homepage > (Select Your New Created Page)
-    c) Save Changes
+5. Settings(Wordpress Admin):
+----------------------------
+    1.Select Reading
+    2.A static Page > Homepage > (Select Your New Created Page.
+    3.Save Changes
