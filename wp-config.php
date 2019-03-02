@@ -29,7 +29,7 @@ define('DB_USER', 'wordpress');
 define('DB_PASSWORD', '@1234Nijhum');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '127.0.0.1');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
