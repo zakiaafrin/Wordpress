@@ -28,7 +28,7 @@ define('FTP_USER', 'root');
 /** FTP Password */
 define('FTP_PASS', '@1234Nijhum');
 /** FTP Host Name */
-define('FTP_HOST', '142.93.122.228');
+define('FTP_HOST', '142.93.122.228/wordpress');
 /** FTP SSL */
 define('FTP_SSL', false);
 
