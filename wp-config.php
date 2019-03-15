@@ -21,7 +21,16 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'wordpress');
+/** Direct connection */
 define('FS_METHOD', 'direct');
+/** FTP username */
+define('FTP_USER', 'root');
+/** FTP Password */
+define('FTP_PASS', '@1234Nijhum');
+/** FTP Host Name */
+define('FTP_HOST', '142.93.122.228');
+/** FTP SSL */
+define('FTP_SSL', false);
 
 /** MySQL database username */
 define('DB_USER', 'wordpress');
@@ -30,7 +39,7 @@ define('DB_USER', 'wordpress');
 define('DB_PASSWORD', '@1234Nijhum');
 
 /** MySQL hostname */
-define('DB_HOST', 'phpmyadmin');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
