@@ -38,7 +38,7 @@ define('FS_CHMOD_FILE', '0660');
 define('DB_USER', 'wordpress');
 
 /** MySQL database password */
-define('DB_PASSWORD', '@1234Nijhum');
+define('DB_PASSWORD', 'password');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
