@@ -28,7 +28,7 @@ define('FS_CHMOD_FILE', '0660');
 // /** FTP username */
 // define('FTP_USER', 'root');
 // /** FTP Password */
-// define('FTP_PASS', '@1234Nijhum');
+// define('FTP_PASS', 'password');
 // /** FTP Host Name */
 // define('FTP_HOST', '142.93.122.228/wordpress');
 // /** FTP SSL */
